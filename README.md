@@ -2,4 +2,6 @@
 
 This is a demo repository created for practicing git concepts.
 #About
-This is about section. This change is made in feature/about-page branch.<b> New change in feature branch</b>
+
+This is about section. This change is made in feature/about-page branch. <b>New change in main.</b>
+
